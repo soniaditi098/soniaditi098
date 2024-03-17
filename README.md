@@ -1,4 +1,4 @@
-### Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
 I am a driven data scientist with a keen focus on NLP and advanced analytics. I specialize in turning complex data into compelling stories through Power BI visualizations. Skilled in Python and SQL for robust ETL processes, I excel in distilling insights from intricate datasets and enhancing AI models with natural language understanding. My GitHub showcases my journey from raw data to refined analysis, demonstrating a passion for transformative solutions and strategic data storytelling.
 
